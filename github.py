@@ -1,1 +1,1 @@
-print("GitHub is how people build software")
+print("GitHub is how people build software!")
